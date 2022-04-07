@@ -464,7 +464,7 @@ footer ul li a:hover:after {
     grid-template-columns: repeat(100, 20%);
 }
 
-.popUp div:nth-child(2) div a:nth-child(2){
+.popUp div:nth-child(2) div a:nth-child(1){
     width: 20px;
     height: 20px;
     background: url('https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png');
@@ -473,7 +473,7 @@ footer ul li a:hover:after {
     /* align: right; */
 }
 
-.popUp div:nth-child(2) div a:nth-child(1){
+.popUp div:nth-child(2) div a:nth-child(2){
     width: 20px;
     height: 20px;
     background: url('https://cdn-icons-png.flaticon.com/512/61/61109.png');
